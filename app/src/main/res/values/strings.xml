@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="ttt">Tic Tac Toe</string>
+    <string name="o">0</string>
+    <string name="img1">Image</string>
+    <string name="img2">Image</string>
+    <string name="img3">Image</string>
+    <string name="img4">Image</string>
+    <string name="img5">Image</string>
+    <string name="img6">Image</string>
+    <string name="img7">Image</string>
+    <string name="img8">Image</string>
+    <string name="img9">Image</string>
+    <string name="x_s_turn_tap_to_play">X\'s Turn : Tap to play</string>
+</resources>
